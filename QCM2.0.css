@@ -1,0 +1,65 @@
+h1, h2{
+	text-align: center;
+}
+
+
+.form-group, button{
+	margin-top: 40px;
+	border-top: 1px dotted white;
+}
+
+.question{
+	font-weight: bold;
+	font-size: 1.2em;
+	font-style: italic;
+}
+
+p, h4 {
+	min-height: 20px;
+	padding-left: 20px;
+	margin-bottom: 0;
+	font-weight: 400;
+}
+
+form {
+	margin-left: 4em;
+	margin-right: 4em;
+}
+
+input[class="form-control"]{
+	width: 10em;
+	margin-right: 15px;
+}
+
+
+body {
+	background: #495C70;
+	color: #f0f0f5;
+	font-family: 'Slabo 27px', serif;
+}
+
+
+.resultat{
+	margin-top: 3em;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+.good {
+	background:  #31B0D5;
+	width: 200px;
+	border-radius: 5px;
+}
+
+.response {
+	background:  #C9302C;
+	width: 200px;
+	border-radius: 5px;
+}
+
+.responsegood{
+	background:  #449D44;
+	width: 200px;
+	border-radius: 5px;
+}
+Contact GitHub API Training Shop Blog About
